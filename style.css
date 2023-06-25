@@ -21,7 +21,7 @@ body{
 
 .panel{
   background: auto 100%;
-  background-position: center;
+  background-position: top;
   background-size: cover;
   height: 80vh;
   border-radius: 50px;
